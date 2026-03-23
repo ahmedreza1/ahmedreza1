@@ -1,4 +1,5 @@
-Ahmed Reza
+- 👋 Hi, I’m @ahmedreza1
+- 📫 You can reach me at ahmedreza80@gmail.com
 
 I build AI systems that turn messy, high-volume data into decisions.
 
